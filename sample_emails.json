@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sample-1",
+    "sender": "recruiting@example.com",
+    "subject": "Interview invitation",
+    "date": "2026-09-22",
+    "body": "Hello, we would like to invite you to an interview next week. Please reply with a suitable time slot."
+  },
+  {
+    "id": "sample-2",
+    "sender": "billing@example.com",
+    "subject": "Invoice #2043",
+    "date": "2026-09-22",
+    "body": "Invoice #2043 is due on Friday. Please review the invoice and arrange payment before the due date."
+  },
+  {
+    "id": "sample-3",
+    "sender": "support@example.com",
+    "subject": "Question about my order",
+    "date": "2026-09-22",
+    "body": "Could you tell me whether my order has been shipped and when delivery is expected?"
+  }
+]
